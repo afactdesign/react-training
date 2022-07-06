@@ -1,6 +1,4 @@
 import {Content, Title} from "./index";
-//import Content from "./Content";
-//import Title from "./Title";
 
 const Article = (props) => {
     return(
